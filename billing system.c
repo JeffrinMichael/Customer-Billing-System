@@ -1,10 +1,8 @@
 /********************************************
 Project Name:CUSTOMER BILLING SYSTEM
-Author: ManoVishnu A
-        Mandala Saikushal
-        Sai Chaitanya Kathri
+Author ; JEFFRIN.M
 Source filename:billing.c
-Date: 18th-Nov-2017.
+Date: 25th-Jan-2022.
 *********************************************/
 #include<stdio.h>
 #include<string.h>
